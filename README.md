@@ -1,1 +1,1 @@
-# Bay of Fundy 
+# run fig.3.py to get the result
